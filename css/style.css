@@ -424,6 +424,7 @@ body {
 .item__client {
   display: flex;
   gap: 16px;
+  margin-bottom: 20px;
 }
 .item__value {
   font-weight: 700;
