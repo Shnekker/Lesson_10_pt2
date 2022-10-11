@@ -163,7 +163,7 @@ body {
   background: #a20701;
 }
 
-.menu-header__list {
+.menu__list {
   display: flex;
   gap: 40px;
   flex-wrap: wrap;
