@@ -336,7 +336,7 @@ body {
     text-align: center;
   }
 }
-.actions-ready__btn {
+.ready__btn {
   font-weight: 700;
   font-size: 16px;
   line-height: 52px;
@@ -348,7 +348,7 @@ body {
   padding: 17px 40px;
   transition: all 0.3s ease 0s;
 }
-.actions-ready__btn:hover {
+.ready__btn:hover {
   background-color: #03CEA4;
   color: rgb(255, 255, 255);
   border: 1px solid rgba(255, 64, 58, 0.1882352941);
